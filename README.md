@@ -5,7 +5,7 @@ This program allows you to activate your Windows using [KMSPico](https://www.quo
 
 ***
 
-##USAGE
+## USAGE
 
 + Open a `cmd` with Administrator Privileges.
 ~~~~
@@ -18,4 +18,4 @@ C:\Users\win10\Desktop> FireKMS.bat
 
 ***
 
-###This program is for educational purposes only.
+### This program is for educational purposes only.
