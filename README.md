@@ -7,6 +7,19 @@ This program allows you to activate your Windows using [KMSPico](https://www.quo
 
 ## USAGE
 
+### Powershell
+
++ Open a `powershell` with Administrator Privileges.
+~~~~
+PS C:\Users\win10\Desktop> .\FireKMS.bat
+~~~~
+
++ Output.
+
+![FireKMS](FireKMS_ps.png)
+
+### CMD
+
 + Open a `cmd` with Administrator Privileges.
 ~~~~
 C:\Users\win10\Desktop> FireKMS.bat
@@ -14,7 +27,7 @@ C:\Users\win10\Desktop> FireKMS.bat
 
 + Output.
 
-![FireKMS](https://github.com/joanbono/FireKMS/blob/master/fireKMS.png)
+![FireKMS](FireKMS.png)
 
 ***
 
